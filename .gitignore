@@ -6,5 +6,6 @@
 *.pdf
 *.jpg
 *.png
+*.exe
 
 /cluster_runs_2024
