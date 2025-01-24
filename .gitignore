@@ -1,0 +1,10 @@
+
+.pipvenv
+
+.DS_Store
+
+*.pdf
+*.jpg
+*.png
+
+/cluster_runs_2024
